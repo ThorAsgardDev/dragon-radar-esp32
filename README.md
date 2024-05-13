@@ -51,8 +51,8 @@ Material: SLS (Plastic), Nylon PA12 100-120µ (White)
 
 ## Assembly
 
-TODO
-Replace when video link will be available
+https://github.com/ThorAsgardDev/dragon-radar-esp32/blob/main/doc/assets/dragon-radar-esp32-animation.mp4
+
 
 ![](./doc/assets/inside.png)
 
