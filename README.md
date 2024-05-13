@@ -84,5 +84,7 @@ Here are the steps to send the dragon-radar program into the ESP32:
 
 
 1. Click the upload button.
+
    ![](./doc/assets/upload-button.png)
+   
 1. Press the ESP32 Reset button.
