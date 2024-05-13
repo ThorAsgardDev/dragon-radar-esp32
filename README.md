@@ -51,8 +51,7 @@ Material: SLS (Plastic), Nylon PA12 100-120µ (White)
 
 ## Assembly
 
-![assembly](https://user-images.githubusercontent.com/ThorAsgardDev/doc/assets/dragon-radar-esp32-animation.mp4)
-
+https://github.com/ThorAsgardDev/dragon-radar-esp32/assets/39161691/d4bff4bd-0f83-4378-85a0-a3110c95d2b1
 
 ![](./doc/assets/inside.png)
 
@@ -80,7 +79,9 @@ Here are the steps to send the dragon-radar program into the ESP32:
    - Release Boot0 button
    
    The manipulation looks like this:
-   ![ESP32](https://cdn-learn.adafruit.com/assets/assets/000/096/987/medium640mp4/adafruit_products_Metro_ESP32-S2_bootloader.mp4?1605219913)
+   
+   https://github.com/ThorAsgardDev/dragon-radar-esp32/assets/39161691/a2027b4b-ae0c-44f7-b7c5-c5ee43b09e98
+
 
 1. Click the upload button.
 1. Press the Reset button.
