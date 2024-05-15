@@ -55,7 +55,7 @@ https://github.com/ThorAsgardDev/dragon-radar-esp32/assets/39161691/d4bff4bd-0f8
 
 ![](./doc/assets/inside.png)
 
-Wire length used:
+Wire lengths used:
 - Speaker: keep entire wires
 - PowerBoost to power button: 80mm
 - PowerBoost to audio amplifier: 120mm
